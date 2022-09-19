@@ -2,7 +2,7 @@
 Smart car parking project with timer to each slot (to take charges)
 
 This project is my second year IoT project. it is the inspiration of real world smart car parking style. but the charges calculation style is a bit different.
-Without using RFID, I used only infared sensors to count the time that the car has been there.
+Without using RFID, I used only infared sensors to count the time that the car has been there. Since this is the second year projects, I didn't use any advanced concept in it. Just a simple and smart car parking.
 
 The requirements for this project is as follows:
 1. 3 x Infared sensors ( 1 for entrance gate and 2 for car slots)
